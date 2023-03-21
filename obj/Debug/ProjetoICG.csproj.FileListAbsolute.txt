@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\bin\Debug\ProjetoICG.exe.config
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\bin\Debug\ProjetoICG.exe
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\bin\Debug\ProjetoICG.pdb
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\obj\Debug\ProjetoICG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\obj\Debug\ProjetoICG.Form1.resources
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\obj\Debug\ProjetoICG.Properties.Resources.resources
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\obj\Debug\ProjetoICG.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\obj\Debug\ProjetoICG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\obj\Debug\ProjetoICG.exe
+C:\Users\User\source\repos\ProjetoICG\ProjetoICG\obj\Debug\ProjetoICG.pdb
